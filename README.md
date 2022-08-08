@@ -1,4 +1,6 @@
-# PowerBI-Analysis-of-the-dynamics-of-sales-of-the-game-Backscapes  
+<h1 align="center">Analysis of the dynamics of sales of the game Backscapes</a>  
+
+####
 
 <br/>
 
