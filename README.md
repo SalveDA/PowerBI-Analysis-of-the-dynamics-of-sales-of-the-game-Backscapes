@@ -25,6 +25,9 @@ Using segmentation, find out why the sales in the game are not as great as they 
 
 ![Backscapes](https://github.com/SalveDA/PowerBI-Analysis-of-the-dynamics-of-sales-of-the-game-Backscapes/blob/main/Backscapes%20v.2.png)
 
+<br/>
+<br/>
+
 **CONCLUSIONS:**  
 
 Based on the analysis, we can conclude that the return rate for non-Russian users is better, while the return of users from Russia has been falling for the last 3 months. And since more than 90% of users are from Russia, it is recommended to focus on increasing the Retention metric, since even with a large increase in the indicators of the “Not Russia” segment, overall sales of the product will fall.  
